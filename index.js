@@ -9,22 +9,3 @@ for (var j=i; j>0; j--) {
 }
 
 console.log("Total bye's " + j);
-
-var users = [
-  {
-    firstName: 'Janez',
-    lastName: 'Novak'
-  },
-  {
-    firstName: 'Franc',
-    lastName: 'Horvat'
-  },
-  {
-    firstName: 'Lojzka',
-    lastName: 'Kranjc'
-  },
-  {
-    firstName:'Micka',
-    lastName: 'Kovač'
-  }
-];
