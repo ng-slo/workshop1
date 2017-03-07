@@ -1,5 +1,5 @@
-for (var i=0; i < 5; i++) {
-  console.log("Hi human " + i);
+for (var i=0; i < 10; i++) {
+  console.log("Hi animal " + i);
 }
 
 console.log("Total hi's " + i);
